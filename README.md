@@ -2,7 +2,7 @@ My version of Traversy Media's SpaceX's API App.
 
 Using: React, GraphQL, and Apollo to display the launches of SpaceX
 
-live here:
+# My App live here:
 
 https://enigmatic-headland-57506.herokuapp.com/
 
@@ -25,7 +25,8 @@ npm run client
 cd client && npm run build
 
 # Graphiql - http://localhost:5000/graphql
-App Info
+
+# App Info
 Author
 Dave Schilling
 
@@ -35,4 +36,4 @@ Version
 License
 This project is licensed under the MIT License
 
-Brad Traversy Traversy Media
+Original project by: Brad Traversy, Traversy Media
